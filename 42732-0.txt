@@ -1,40 +1,4 @@
-The Project Gutenberg EBook of The Englishman in China During the
-Victorian Era, Vol. I (of 2), by Alexander Michie
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Englishman in China During the Victorian Era, Vol. I (of 2)
-       As Illustrated in the Career of Sir Rutherford Alcock,
-       K.C.B., D.C.L., Many Years Consul and Minister in China
-       and Japan
-
-Author: Alexander Michie
-
-Release Date: May 18, 2013 [EBook #42732]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE ENGLISHMAN IN CHINA ***
-
-
-
-
-Produced by Melissa McDaniel and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 42732 ***
 
 Transcriber's Note:
 
@@ -170,7 +134,7 @@ Chinese Empire itself, and now threaten to recoil also upon the
 foreign nations which are responsible for them. This responsibility
 was never more tersely summed up than by Mr Burlingame in his capacity
 of Chinese Envoy. After sounding the Foreign Office that astute
-diplomatist was able to inform the Tsungli-Yamen in 1869 that "the
+diplomatist was able to inform the Tsungli-Yamên in 1869 that "the
 British Government was so friendly and pacific that they would endure
 anything." The dictum, though true, was fatal, and the operation of it
 during thirty subsequent years explains most that has happened during
@@ -456,7 +420,7 @@ On landing the lad "amused himself by observing the effects in the sky
 and the sea, and by picking up shells, bones of birds and animals,
 which having remained in the sea until perfectly clean, looked
 beautiful and white as ivory." Simple things interested him, and after
-dinner at the Hotel Meurice in Paris he "listened with much pleasure
+dinner at the Hôtel Meurice in Paris he "listened with much pleasure
 to a man playing airs on what he called an American flute"--which he
 goes on to describe: "The tones were mellow in the extreme, and the
 airs he played I think were much superior in sweetness to any I have
@@ -579,7 +543,7 @@ during the seventy years of crowded life which followed:--
      vehicle like a chair.
 
      The mountain consisted of boards raised at an angle of
-     about from 60 deg. to 70 deg. with the ground, and gradually
+     about from 60° to 70° with the ground, and gradually
      becoming level. The distance from where they set off to
      where they stop I have before stated, I think, to be about
      200 feet.
@@ -695,7 +659,7 @@ devotion; of jealousy, intrigue, and incapacity; of love and hate; and
 of the lights and shadows that flit across the theatre of human life.
 Interferences in other people's quarrels naturally bring to the
 surface all the incongruities. The auxiliaries are sure to be thought
-arrogant whether they are really so or not, and the _proteges_ are no
+arrogant whether they are really so or not, and the _protégés_ are no
 less certain to be deemed ungrateful. Each party is apt to
 underestimate the exploits of the other and to exaggerate his own.
 They take widely different views of the conditions under which their
@@ -913,7 +877,7 @@ Shaw writes to his family:--
      No application from myself as commanding the battalion;
      from Alcock, as senior medical officer; nor from Hodges, as
      the representative of the foreigners, had any effect on
-     Augustinho Jose Freire: thus the poor fellows, crowded
+     Augustinho José Freire: thus the poor fellows, crowded
      together, without beds, without nurses, without clothes,
      and even without medicines, died in numbers.
 
@@ -995,7 +959,7 @@ not discredit a veteran.
      Government by the flight of the owners. One I could point
      out at this moment which, from a superficial inspection, I
      believe might be advantageously appropriated--a corner
-     house in the Praca de St Ildefonso, adjoining the church.
+     house in the Praça de St Ildefonso, adjoining the church.
 
      The advantages which would accrue from this arrangement
      cannot for a moment be counterbalanced by the trouble or
@@ -1258,7 +1222,7 @@ consequence of an illness which left its mark in the form of paralysis
 of hands and arms, and thus put an end to "all dreams of surgical
 practice."
 
-This malady was a legacy from the Peninsula. Like Caesar, "he had a
+This malady was a legacy from the Peninsula. Like Cæsar, "he had a
 fever when he was in Spain," a rheumatic fever of a particularly
 severe type contracted at the siege of San Sebastian. This entailed
 indescribable pain and misery during many months, and, in spite of
@@ -1689,7 +1653,7 @@ Commerce itself had also for some time been a source of disquietude,
 and it is an interesting circumstance that it was the same feature of
 it which caused anxiety to both sides. The balance of trade was
 against China, which in the year 1838 had to provide bullion to the
-amount of upwards of L2,000,000 sterling to pay for the excess of
+amount of upwards of £2,000,000 sterling to pay for the excess of
 imports over exports. English manufacturers deplored the fact that the
 purchasing power of China was restricted by the paucity of her
 commodities suitable for foreign markets, while the Chinese
@@ -1767,7 +1731,7 @@ which the official or his retinue invariably carried a large quantity
 for sale there. This circumstance was published in the trade circulars
 printed in Canton, without the least concealment of the name of the
 mandarin under whose protection the drug was transported. The _hoppo_
-was, and still is, an imperial _protege_, and it was, and is still,
+was, and still is, an imperial _protégé_, and it was, and is still,
 perfectly understood that he divides the proceeds of his Canton
 harvest with his patrons. It is for that purpose that he receives the
 appointment. And this was a trade proscribed under extreme penalties
@@ -2013,7 +1977,7 @@ Having thus got the superintendent of trade into his power,
 Commissioner Lin preferred most extravagant demands upon him,
 including the delivery to the Chinese of all opium owned by British
 merchants, which amounted to 20,000 chests valued at upwards of
-L2,000,000. The imprisoned merchants had no choice but to yield to the
+£2,000,000. The imprisoned merchants had no choice but to yield to the
 demand made upon them by the representative of the British Crown; and
 as the recent agitations had interfered greatly with the course of
 trade, their assent to the terms was no doubt soothed by the
@@ -2068,7 +2032,7 @@ II. THE SEQUEL TO THE SURRENDER OF OPIUM.
      English seaman for execution.
 
 The interesting question in all this is how the Chinese authorities
-were impressed with the magnanimous sacrifice of over L2,000,000
+were impressed with the magnanimous sacrifice of over £2,000,000
 sterling worth of private property as a ransom for the liberties of
 British subjects. They were certainly not impressed favourably, for
 Captain Elliot, together with the whole community, was detained for
@@ -2173,7 +2137,7 @@ characterised his act as a participation "in measures of unprecedented
 inhospitality and enmity against British subjects."[8]
 
 Into the merits of the opium question itself, or of that unique
-transaction, the surrender of L2,000,000 sterling worth of the
+transaction, the surrender of £2,000,000 sterling worth of the
 commodity by a British agent on the mere demand of a Chinese official,
 it would be impossible to enter within the limits of space assigned to
 us. But it is obvious that such a demand, made within two years of the
@@ -2862,7 +2826,7 @@ recover from our losses, is all we desire."
 
 The Manchu and Chinese races are the complement of each other in the
 economy of the State. The Manchus, with their military heredity, were
-best fitted for the imperial _role_, while the Chinese are by
+best fitted for the imperial _rôle_, while the Chinese are by
 tradition rather men of business than administrators. From which it
 may be inferred that the material progress of the country will rest
 more with the Chinese with all their faults than with the Manchus with
@@ -2964,7 +2928,7 @@ of the great industrial centres. And here it seems not unfitting to
 remark upon the lively and intelligent interest which the commercial
 community of that period was wont to take in the affairs of China. The
 trade of Great Britain and of British India with that country had not
-reached the annual value of L12,000,000 sterling including treasure,
+reached the annual value of £12,000,000 sterling including treasure,
 yet we find in the years 1839 and 1840 a series of ably drawn
 memorials to Government bearing the signatures of all the important
 houses in the kingdom, showing the most intimate acquaintance with
@@ -2984,7 +2948,7 @@ Among the memorials addressed to, and by request of, the Foreign
 Secretary, that from the East India and China Association,
 representing the merchants of London interested in the Far East, gives
 perhaps the clearest exposition of the whole case from the commercial
-point of view. After a succinct historical _resume_ of our successes
+point of view. After a succinct historical _résumé_ of our successes
 and failures in China, each traced to its cause, the memorialists
 state their opinion that "submission will now only aggravate the evil,
 and that an attempt should be made, supported by a powerful force, to
@@ -2994,7 +2958,7 @@ the commercial treaty which they think would conduce to that result.
 
      _First._ Admission not only to Canton, but to certain ports
      to the northward--say Amoy, Fuh-cho-foo, Ningpo, and the
-     Yang-che-keang and Kwan-chou--situated between 29 deg. and 32 deg.
+     Yang-che-keang and Kwan-chou--situated between 29° and 32°
      north latitude, near the silk, nankin, and tea districts,
      and it is on this coast that the chief demand for British
      woollens, longells, and camlets exists.
@@ -3567,7 +3531,7 @@ community of Canton. The throwing open of the city was by the latter
 considered the essential object of the recent expedition, and in their
 memorial to Lord Palmerston the merchants stated that the Braves
 having declared their determination to oppose the English at all
-costs, the withdrawal of our troops _re infecta_ "intoxicated all
+costs, the withdrawal of our troops _re infectâ_ "intoxicated all
 ranks of the people with an imaginary triumph." Exclusion from the
 city thus remained as a trophy in the hands of the reactionaries, to
 become in 1856 the crux of a new dispute and a new war.
@@ -3816,7 +3780,7 @@ commerce at the port of Ningpo.
 
 It was to Foochow that Mr Alcock was appointed in 1844, by Mr Davis
 (as he then was), who had recently succeeded Sir Henry Pottinger. The
-new consul, however, made his actual _debut_ at Amoy, where he was
+new consul, however, made his actual _début_ at Amoy, where he was
 detained for four months, from November 1844 to March 1845, acting for
 the titular consul at that port. There he at once displayed that
 energy and clear-sightedness which were to become so conspicuous in
@@ -3853,7 +3817,7 @@ consul and interpreter was seriously tested.
 
 Foochow was of superior rank to the other two ports, being, like Canton,
 at once a provincial capital and the seat of a governor-general or
-viceroy of two provinces--namely, Fukien and Chekiang--and possessing
+viceroy of two provinces--namely, Fukien and Chêkiang--and possessing
 a Manchu garrison. The Chinese Government was believed to have been
 most reluctant to open Foochow as a trading port at all, which seemed
 reason enough for the British negotiators insisting on its being
@@ -4061,7 +4025,7 @@ ground-rent, which was collected through the consulates, as at this
 day. Roads were gradually marked out and jetties for boats were built
 on the river frontage, and what is now a municipal council served by a
 large secretarial staff and an imposing body of police, and handling a
-budget amounting to L130,000, came into existence under the modest
+budget amounting to £130,000, came into existence under the modest
 title of a "Committee for Roads and Jetties." In the beginning there
 seems to have been an idea of forming separate reservations of land
 for the subjects of the three treaty Powers--Great Britain, France,
@@ -4248,7 +4212,7 @@ produce the criminals. This being disregarded, the measures above
 referred to were enforced, with the full approval, it may be
 mentioned, of the consuls of the two other treaty Powers. At the same
 time Vice-Consul Robertson, with Parkes for interpreter, was
-despatched to Nanking on board her Majesty's ship Espiegle to lay the
+despatched to Nanking on board her Majesty's ship Espiègle to lay the
 whole case before the viceroy of Kiangnan. The matter was there
 promptly attended to, full redress was ordered, and the culprits
 punished exactly three weeks after the assault. The embargo on the
@@ -4890,7 +4854,7 @@ inspectors with a single and united action." As many questions of
 national and international jurisdiction were likely to arise out of
 the executive functions of the inspectors, provision was made for
 dealing with them, and as far as human ingenuity could foresee without
-any experience to guide, every contingency, down to the minutiae of
+any experience to guide, every contingency, down to the minutiæ of
 internal administration, was considered in the instructions given to
 the inspectors. The announcement of the newly-constituted Customs
 Board was formally made by the consuls on July 6, and the new
@@ -5370,7 +5334,7 @@ restraint of princes, war, pestilence, or famine--inundations here and
 droughts there; but a something there must always be to explain away
 the moral accountability of the individual traders, manufacturers, or
 planters. China and Japan have seldom been without such fatalistic
-obstacles to commerce. For many years the rebellion was the _bete
+obstacles to commerce. For many years the rebellion was the _bête
 noire_ of merchants, then the mandarins, and smaller rebellions; the
 scarcity of specie at one period, at another the superabundance of
 cheap silver. In Burma the King of Ava stood for long as the root of
@@ -5463,7 +5427,7 @@ China. The trade thus revolving in an eternal circle, having neither
 beginning nor end, it was impossible to pronounce definitely at what
 particular point of the revolution the profit or loss occurred. A bad
 out-turn of goods exported would, it was hoped, be compensated for by
-the favourable result of the produce imported, and _vice versa_, _ad
+the favourable result of the produce imported, and _vice versâ_, _ad
 infinitum_. Thus no transaction stood on its own merits or received
 the unbiassed attention of the merchants. Their accounts did not show
 the actual amount of loss or gain on a particular invoice, the
@@ -5603,7 +5567,7 @@ Exchequer might be held responsible for the anomaly; for the English
 duties were a mechanical dead-weight on the trade, impeding the free
 play of the other economic factors. There was a practically unlimited
 supply of tea in China, and a growing demand for it in England, and
-yet some L2,000,000 in specie was annually sent away from China as the
+yet some £2,000,000 in specie was annually sent away from China as the
 balance of trade. How to commute that amount of silver into tea for
 the benefit of both countries might be said to be the problem before
 the merchants and their Governments.
@@ -5637,7 +5601,7 @@ trader.
 This impossible state of things was remedied in 1836, when the duties
 were converted to one uniform rate of 2s. per pound on all teas.
 Subsequently 5 per cent was added to this, so that the duty in 1847
-was 2s. 21/4d. The object to which the Government inquiry was primarily
+was 2s. 2¼d. The object to which the Government inquiry was primarily
 directed was to gauge the effect on the consumption of tea of the
 raising or lowering of the duties, on which depended the ultimate
 retail price. The admission of competition in the Chinese trade in
@@ -5683,13 +5647,13 @@ being equivalent, as it had been when originally fixed, to 100 per
 cent on the value, was estimated to average 165 per cent on Congou
 tea, which was much beyond what the Legislature intended when the
 tariff was decided; for while they reckoned on getting a revenue of
-L3,600,000, the increase in the quantity had been so considerable that
-the yield of the duty had risen to L5,000,000. The arguments and the
+£3,600,000, the increase in the quantity had been so considerable that
+the yield of the duty had risen to £5,000,000. The arguments and the
 evidence in favour of reducing the duties were unanswerable from every
 point of view. Yet the utmost which the advocates in 1847 seem to have
 hoped for was that it might be reduced to 1s. per pound, which they
 considered would entail a temporary loss to the revenue. But we see in
-our day that the Government draws nearly L4,000,000 from the article
+our day that the Government draws nearly £4,000,000 from the article
 on a tariff rate of 4d. per pound, while the consumption per head of
 population has risen to 6 lb., or a total of 235,000,000 lb. per
 annum.
@@ -5906,7 +5870,7 @@ prices awaited them. The export from Shanghai for the year 1856 was
 very large, and the result encouraged growers and native and foreign
 merchants to put forth still greater efforts in the following year,
 when the shipments from that port reached 90,000 bales, worth probably
-L10,000,000 sterling. These shipments, thrown on the market during the
+£10,000,000 sterling. These shipments, thrown on the market during the
 money panic of 1857, resulted disastrously, but the impetus given to
 the trade continued to be felt during many subsequent years.
 
@@ -5984,7 +5948,7 @@ raw cotton, which also came from India, formed the pivot of exchange.
 As the opium was paid for in silver and not by the barter of produce,
 it was natural to charge it with the loss of the silver which was
 annually shipped away from China, and which was assumed to reach the
-amount of L2,000,000 sterling, though that seems to be an
+amount of £2,000,000 sterling, though that seems to be an
 exaggeration.
 
 The trade in this commodity differs from all ordinary commerce in the
@@ -6114,12 +6078,12 @@ danger of curing that which is bad by something which is worse.
 
      The trade of Great Britain with India in the year 1850
      showed by the official returns an export of manufactures to
-     the value of L8,000,000, leaving a large balance of trade
+     the value of £8,000,000, leaving a large balance of trade
      against that country. A portion of the revenue of India has
      also to be annually remitted to England in addition, for
      payment of the dividends on Indian stock and a portion of
      the Government expenses. These remittances are now
-     profitably made _via_ China, by means of the opium sold
+     profitably made _viâ_ China, by means of the opium sold
      there; and failing this, serious charges would have to be
      incurred which must curtail both the trade and the
      resources of the Indian Exchequer.
@@ -6129,8 +6093,8 @@ danger of curing that which is bad by something which is worse.
      silk for shipment to Great Britain not less than five
      millions, and the difference is paid by opium.
 
-     A trade of L10,000,000 in British manufactures is therefore
-     at stake, and a revenue of L9,000,000--six to the British
+     A trade of £10,000,000 in British manufactures is therefore
+     at stake, and a revenue of £9,000,000--six to the British
      and three to the Indian Treasury.
 
      Which of these is the more important in a national point of
@@ -6325,11 +6289,11 @@ This department of trade presents little else but a record of very
 slow improvement, with some rather violent fluctuations due to obvious
 and temporary causes. In the first year after the treaty of Nanking
 the value of shipments to China from the United Kingdom was
-L1,500,000; in 1852, L2,500,000; in 1861, L4,500,000, decreasing in
-1862 to L2,300,000, and rising in 1863 to L3,000,000; after which
-period it steadily increased to L7,000,000, at which it has
+£1,500,000; in 1852, £2,500,000; in 1861, £4,500,000, decreasing in
+1862 to £2,300,000, and rising in 1863 to £3,000,000; after which
+period it steadily increased to £7,000,000, at which it has
 practically remained, with the exception of two or three years between
-1885 and 1891, when it rose to L9,000,000.
+1885 and 1891, when it rose to £9,000,000.
 
 The theory of the merchants who gave evidence before the Committee of
 1847, that an increase in the exports from China was all that was
@@ -6594,7 +6558,7 @@ be of interest.[26]
 FOOTNOTES:
 
 [20] The annual value of the whole foreign trade with China, imports
-and exports, is now about L70,000,000.
+and exports, is now about £70,000,000.
 
 [21] His predecessors had been governors of Fort William in Bengal.
 
@@ -6642,7 +6606,7 @@ nearly a year old, and her comfortable habits generally, were matters
 of legend at the time of which we write. But a parting glance at the
 old is the best way of appreciating the new. The East Indiaman was the
 very apotheosis of monopoly. The command was reserved as a short road
-to fortune for the _proteges_ of the omnipotent Directors in
+to fortune for the _protégés_ of the omnipotent Directors in
 Leadenhall Street, and as with Chinese governors, the tenure of the
 post was in practice limited to a very few years, for the Directors
 were many and their cognates prolific. So many, indeed, were their
@@ -6654,28 +6618,28 @@ captain's share being 56 tons, which they could either fill with their
 own merchandise or let out to third parties. The value of this,
 including the intermediate "port-to-port" voyage in India, may be
 judged from the figures given by one captain, who from actual data
-estimated the freight for the round voyage at L43 per ton. The
+estimated the freight for the round voyage at £43 per ton. The
 captains enjoyed also the passage-money, valued by the same authority
-at L1500 per voyage. There were other "indulgences," scarcely
+at £1500 per voyage. There were other "indulgences," scarcely
 intelligible in our days, which yet yielded fabulous results. These
 figures are taken from a statement submitted to the Honourable Company
 by Captain Innes, who claimed, on behalf of himself and comrades,
 compensation for the loss they sustained through the cessation of the
 monopoly. The captain showed that he made, on the average of his three
-last voyages, L6100 per voyage--of which L180 was pay!--without
+last voyages, £6100 per voyage--of which £180 was pay!--without
 counting "profits on investments," for the loss of which he rather
-handsomely waived compensation. L8000 to L10,000 per voyage was
+handsomely waived compensation. £8000 to £10,000 per voyage was
 reckoned a not extravagant estimate of a captain's emoluments. The
 Company employed chartered ships to supplement its own, and the
 command of one of them was in practice put up to the highest bidder,
-the usual premium being about L3000 for the privilege of the command,
+the usual premium being about £3000 for the privilege of the command,
 which was of course severely restricted to qualified and selected men.
 
 That such incredible privileges should be abused, to the detriment of
 the too indulgent Company, was only natural. The captains, in fact,
 carried on a systematic smuggling trade with Continental ports as
 well as with ports in the United Kingdom where they had no business to
-be at all, though they found pretexts, _a la Chinoise_, such as stress
+be at all, though they found pretexts, _à la Chinoise_, such as stress
 of weather or want of water, if ever called to account. The Channel
 Islands, the Scilly Islands, and the Isle of Wight supplied the
 greatest facilities for the illicit traffic, and their populations
@@ -6730,7 +6694,7 @@ were free from the restrictions which so cramped the British
 shipowners, should have suffered to endure so long a monopoly so
 baseless as that of the East India Company. The fact seems to prove
 the general depression of maritime energy in the early part of the
-century. But succeeding to such a patriarchal _regime_, it is little
+century. But succeeding to such a patriarchal _régime_, it is little
 wonder that the common merchantmen, reduced to reasonable economical
 conditions, should have reaped a bountiful harvest. The Company's
 terms left a very handsome margin for shrinkage in the freight tariff,
@@ -6848,7 +6812,7 @@ was an epoch in itself. It was the year of the treaty of Tientsin,
 which threw open three additional trading-ports on the coast, three
 within the Gulf of Pechili, and three on the Yangtze. Of the three
 northern ports, excepting Tientsin, very little was known to the
-mercantile community, and the selection of Teng-chow and Newchwang by
+mercantile community, and the selection of Têng-chow and Newchwang by
 the British plenipotentiary shows what a change has in the interval
 come over the relative intelligence of the Government and the
 merchants; for in those days, it would appear, the Government was as
@@ -6884,7 +6848,7 @@ months before the period fixed for the exchange of ratifications of
 the treaty, several mercantile firms equipped, with the utmost
 secrecy, trading expeditions to the Gulf of Pechili. Their first
 object was to discover what seaport would serve as the entrepot of
-Tengchow, since that city, though near enough to salt water to have
+Têngchow, since that city, though near enough to salt water to have
 been bombarded for a frolic by the Japanese navy in 1894, possessed
 no anchorage. The several sets of argonauts, among whom was the writer
 of this book, seeking for such an anchorage, found themselves, in the
@@ -6892,7 +6856,7 @@ month of April, all together in the harbour of Yentai, which they
 misnamed Chefoo, a name that has become stereotyped. Obviously, then,
 that would be the new port, especially as the bay and the town showed
 all the signs of a considerable existing traffic. It was full forty
-miles from Tengchow, but there was no nearer anchorage. The foreign
+miles from Têngchow, but there was no nearer anchorage. The foreign
 visitors began at once to cultivate relations with the native
 merchants, tentatively, like Nicodemus, making their real business by
 night, while the magnificent daylight was employed in various local
@@ -6973,7 +6937,7 @@ commerce gushed out, much beyond the capacity of any existing
 transport. The demand for steamers was therefore sudden, and
 everything that was able to burn coal was enlisted in the service. The
 freight on light goods from Hankow to Shanghai commenced at 20 taels,
-or L6, per ton for a voyage of three days. The pioneer inland steamer
+or £6, per ton for a voyage of three days. The pioneer inland steamer
 was the Fire Dart, which had been built to the order of an American
 house for service in the Canton river. She was soon followed by others
 built expressly for the Yangtze, and before long regular trade was
@@ -7208,10 +7172,10 @@ agent, or "consignee," recommended the captain to proceed at once
 north to Shanghai, where, according to latest advices, he would be
 sure to obtain a lading at a high rate of freight. The cautious
 skipper demurred to taking such a risk, and refused to move unless the
-agent would guarantee him L6, 10s. per ton for a full cargo for
+agent would guarantee him £6, 10s. per ton for a full cargo for
 London. This was agreed. The ship reached the loading port at a moment
 when there was no tonnage available and much produce waiting shipment,
-and she was immediately filled up at about L7 or L8 per ton. It fell
+and she was immediately filled up at about £7 or £8 per ton. It fell
 to the lot of this particular vessel, by the way, to carry a mail from
 Hongkong to Shanghai, the P. and O. Company's service being then only
 monthly, and no other steamer being on the line. It was just after the
@@ -7255,9 +7219,9 @@ erratic outsiders but by the regular traders, which loaded in London,
 Liverpool, or New York with manufactured goods, coal, and metals, and
 returned from China with tea, silk, and other produce. It must have
 been a profitable business, for the average freight homeward in the
-'Forties and 'Fifties seems to have been about L5 per ton; and if we
+'Forties and 'Fifties seems to have been about £5 per ton; and if we
 allow even one-third of that for the outward voyage, it would give the
-shipowner somewhere about L7 for the round voyage, which was
+shipowner somewhere about £7 for the round voyage, which was
 accomplished with ease within the twelve months. It must be
 remembered, however, that the expenses of running were proportionately
 high on the small vessels which were then in the trade. In the course
@@ -7276,9 +7240,9 @@ is, by P. and O. Company's steamers to Suez, and thence by rail to
 Alexandria, to be there reshipped for its ultimate destination,
 Marseilles or Southampton. But the capacity of the steamers was so
 small that only a _pro rata_ allotment of space was made to
-applicants, and the freight charged for it was at the rate of L25 per
+applicants, and the freight charged for it was at the rate of £25 per
 ton. Under exceptional conditions one sailing ship in the year 1856
-carried a silk cargo of 6000 bales, valued at L750,000 sterling, which
+carried a silk cargo of 6000 bales, valued at £750,000 sterling, which
 was said to be the largest amount ever ventured, up to that time, in
 any merchant vessel. It was so unexpectedly large that the shippers
 were unable fully to cover their risk by insurance. A singular
@@ -7459,7 +7423,7 @@ whole voyage until they reached the English Channel, where they again
 met, arriving in the Thames within a few hours of each other." Very
 fast passages continued to be made after that time. The Ariel and
 Spindrift raced in 1868, and the Titania made a quick run in 1871; but
-Mr Lindsay awards the palm to the Sir Lancelot and Thermopylae as "the
+Mr Lindsay awards the palm to the Sir Lancelot and Thermopylæ as "the
 two fastest sailing-ships that ever traversed the ocean." The former
 vessel, 886 tons register, made the run from Foochow to London in
 ninety days in 1868, and an interesting fact is recorded by the owners
@@ -7651,7 +7615,7 @@ The relation of the foreign mercantile community to their official
 representatives was not always free from friction, because the same
 high authority which enjoined on the officials the protection of the
 persons and the promotion of the interests of the lay community
-empowered them also to rule over these their _proteges_, and to apply
+empowered them also to rule over these their _protégés_, and to apply
 to them an arbitrary discipline in accordance with what they conceived
 to be the exigencies of the time. Duty in such circumstances must
 often have assumed a divided aspect, and rules of action must
@@ -7897,7 +7861,7 @@ reached Hongkong, with no accommodation for more than a few
 passengers, and carrying no more cargo than a good-sized lighter. And
 later still, when steamers carried the mails fortnightly to China, the
 expense of the trip was so great that only a chosen few could afford
-it. It took L150 to L170 to land a single man in Hongkong, and in
+it. It took £150 to £170 to land a single man in Hongkong, and in
 those days when extensive outfits were thought necessary, probably as
 much more had to be laid out in that way. The merchants who
 established themselves in China after the opening of the trade were
@@ -7934,7 +7898,7 @@ a consequence of which the reins of discipline might be held lightly,
 all service being willingly and intelligently rendered. The system of
 devolution was so fully developed that the assistant was practically
 master in his own department, for the success of which he was as
-zealous as the head. The "mess" _regime_ under which in most houses
+zealous as the head. The "mess" _régime_ under which in most houses
 the whole staff, employers and employees, sat at one table, tended
 strongly in the direction of a common social level.
 
@@ -7992,7 +7956,7 @@ cost of depth, for whatever else may have changed, the generosity of
 the foreign communities remains as princely as in the good old days.
 
 Yet is it permissible to regret some of the robuster virtues of the
-generation that is past. The European solidarity _vis-a-vis_ the
+generation that is past. The European solidarity _vis-à-vis_ the
 Chinese world, which continued practically unbroken into the eighth
 decade of the century, a tower of moral strength to foreigners and an
 object of respect to the Chinese, has now been thrown down. Not only
@@ -8143,7 +8107,7 @@ could exercise no sort of supervision over the proceedings of their
 agents. The funds were in every case safely returned in the form of
 produce purchased, which was entered to the foreign merchant at a
 price arbitrarily fixed by the comprador to cover all expenses. Under
-such a _regime_ it would have needed no great perspicacity, one would
+such a _régime_ it would have needed no great perspicacity, one would
 imagine, to foretell in which pocket the profits of trading would
 eventually lodge. As a matter of fact, the comprador generally grew
 rich at the expense of his employer. All the while the sincerest
@@ -8179,7 +8143,7 @@ Following the Chinese to the various commercial colonies which they
 have done so much to develop, it will be found that they have carried
 with them into their voluntary exile the best elements of their
 commercial success in their mother country. The great emporium of
-Maimaichen, on the Siberian frontier near Kiachta, is an old
+Maimaichên, on the Siberian frontier near Kiachta, is an old
 commercial settlement mostly composed of natives of the province of
 Shansi, occupying positions of the highest respect both financially
 and socially. The streets of the town are regular, wide, and
@@ -8464,7 +8428,7 @@ criticisms, and imparts a refreshing vigour to the invective of those
 of its members who possess the courage of their convictions. It
 reaches the popular ear, and the apprehension of an adverse public
 opinion so stimulated can never fail to have its effect on the acts of
-the Administration. Under such a _regime_ it seems natural that, other
+the Administration. Under such a _régime_ it seems natural that, other
 things being equal, each governor in turn should be esteemed the worst
 who has borne rule in the colony, and in any case his merits are never
 likely to be fairly gauged by any local contemporary estimate. King
@@ -8789,7 +8753,7 @@ of the Chinese authorities that such an isolated position as that of
 Macao should have been held without force, and only on the prestige of
 past achievements, on terms of mutual amity, for nearly four hundred
 years. The Portuguese squatters paid to the Chinese Government a
-ground-rent of about L150 per annum, in consideration of which they
+ground-rent of about £150 per annum, in consideration of which they
 enjoyed practical independence. "The merchants, fully aware that their
 settlement at Macao was due neither to any conquest, nor as a return
 for services by co-operating in destruction of pirates, bore in mind
@@ -8995,7 +8959,7 @@ buried in the neighbouring island of Sanchuan, whence his remains were
 transferred first to Macao itself and afterwards to Goa. The names of
 Xavier and Ricci cast a halo over the first century of the existence
 of Macao. Another of the earlier residents of world-wide fame was the
-poet Camoeens, who in a grotto formed of granite blocks tumbled
+poet Camöens, who in a grotto formed of granite blocks tumbled
 together by nature, almost washed by the sea, sat and wrote the
 Portuguese epic 'The Lusiad,' celebrating the adventures of the great
 navigator Vasco da Gama. Of names belonging to the present century, or
@@ -9011,7 +8975,7 @@ laboured "from morning to midnight." In Canton a Pekingese teacher, a
 Catholic convert, was obtained, and the study of Chinese was carried
 on assiduously. The most enduring monument of these labours was the
 Chinese-English dictionary, which was printed by the East India
-Company at a cost of L15,000. This standard work has been the fountain
+Company at a cost of £15,000. This standard work has been the fountain
 from which all students of Chinese have drawn since his time.
 
 Art has had but one representative, an Irish gentleman named George
@@ -9186,7 +9150,7 @@ dated Ningpo, August 24, 1857:--
      pay convoy duties to the extent of 50,000 dollars a-year;
      and the wood-junks that ply between Ningpo and Foochow, and
      the other native craft, raise the annual payment for
-     protection to 200,000 dollars (L70,000) annually. These
+     protection to 200,000 dollars (£70,000) annually. These
      figures are startling, but I have taken pains to ascertain
      their correctness.
 
@@ -9396,7 +9360,7 @@ long despatch to Commissioner Yeh on the subject in April of that
 year. It had no effect, and was followed up a few months later by an
 effort in another direction. The turbulent character of the Cantonese
 people and the impracticable arrogance of the imperial officers who
-successively held office there had often prompted an appeal to Caesar,
+successively held office there had often prompted an appeal to Cæsar,
 and more than one attempt had been made in times gone by to submit the
 Canton grievances to the judgment of the Imperial Court. These
 attempts were inspired by a total misconception of the relations
@@ -9565,7 +9529,7 @@ small to follow up the initial movement against the city, which gave
 no sign of yielding by first intention, Sir Michael Seymour had to
 content himself with intimating to the Viceroy Yeh that,
 notwithstanding his Excellency's interdict, he had, with a guard of
-bluejackets, visited the Viceregal Yamen; and with keeping hostilities
+bluejackets, visited the Viceregal Yamên; and with keeping hostilities
 alive by a blockade of the river while awaiting reinforcements.
 
 The Arrow incident occurred in October. In December the foreign
@@ -10197,7 +10161,7 @@ by trying, with ludicrous effect, to get behind the brain of the
 Chinese and play their opponent's hand as well as their own. Probably
 it matters less on what particular footing we deal with the Chinese
 than the consistency with which we adhere to it. To treat them as
-_proteges_, and excuse them as minors or imbeciles while yet allowing
+_protégés_, and excuse them as minors or imbeciles while yet allowing
 them the full licence and privileges of the adult and the sane, is
 manifestly absurd. To treat them as dependent and independent at the
 same time can lead to nothing but confusion and violent injustice. To
@@ -10278,7 +10242,7 @@ to Tientsin and thus saving them the trouble of completing their slow
 journey to Shanghai. On their eventual arrival there he opened a
 diplomatic campaign against Canton by a demand (October 7) to know
 under what authority Huang and the military committees were organising
-attacks on the Allies. In reply the Imperial Commissioners naively
+attacks on the Allies. In reply the Imperial Commissioners naïvely
 proposed to promulgate the treaty. This frivolous answer provoked the
 rejoinder (October 9) that the treaty had been three months before
 publicly sanctioned by imperial decree, that something more than
@@ -10410,7 +10374,7 @@ critical occasions, of judgment to sentiment.
 
 Meantime his brother Frederick, who had carried the Tientsin treaty to
 London, was returning with it and the Queen's ratification and his
-letter of credence as British Minister to China. The _denoument_ of
+letter of credence as British Minister to China. The _dénoûment_ of
 the plot was now at hand. The real mind of the Chinese Government was
 finally declared in the sanguinary reception the new envoy met with at
 the entrance of the Peiho in June 1859. Frederick Bruce was generally
@@ -10578,7 +10542,7 @@ intervened between a great open plain and the wall of the Manchu city.
 Passing over the dramatic incidents of the destruction of the Summer
 Palace, an act of calculated vengeance for the murder and maltreatment
 of envoys and prisoners, the flight of the emperor on a hunting tour
-to Jeho, whence he never returned, the release of the prisoners and
+to Jêho, whence he never returned, the release of the prisoners and
 their account of the captivity, the new treaty was signed at the Hall
 of Ceremonies on October 22, 1860, by Prince Kung, "a delicate
 gentlemanlike man, evidently overcome with fear," and his coadjutor,
@@ -10731,16 +10695,16 @@ they will take care of you."
 The winter of 1860 left the statesmen of China some food for
 reflection. The thundering legions had passed like a tornado which
 leaves a great calm behind it. The "still small voice" had also
-departed, with a province in his _chemadan_, gained without a shot or
+departed, with a province in his _chemadán_, gained without a shot or
 even a shout. Two strongly contrasted foreign types had thus been
 simultaneously presented to the astonished Chinese. Can it be doubted
 which left the deeper impression?
 
 Preparations were made during the winter for receiving the foreign
 Ministers in the spring. A department of Foreign Affairs was created
-under the title of "Tsung-li Koh Kwoh She Yu Yamen," or briefly,
-"Tsungli-Yamen," the three original members being Prince Kung,
-Kweiliang, and Wensiang. The Yamen was established by imperial decrees
+under the title of "Tsung-li Koh Kwoh She Yu Yamên," or briefly,
+"Tsungli-Yamên," the three original members being Prince Kung,
+Kweiliang, and Wênsiang. The Yamên was established by imperial decrees
 in January; Mr Bruce and M. Bourboulon arrived in March 1861, when
 diplomacy proper began, the thread of which will be resumed in a later
 section.
@@ -10836,7 +10800,7 @@ indicates no other purpose for which foreign legations were
 established there. He does not get beyond the mere "residency." A
 viceroy of India proclaiming at each stage of a "progress" that he was
 a man of peace, a bride hoping to lead a passably virtuous life, would
-scarcely be more naive than a foreign Minister's pious aspiration to
+scarcely be more naïve than a foreign Minister's pious aspiration to
 behave tolerably well to the Chinese. For where was the "difficulty,"
 one is tempted to ask? It is explained by Dr Rennie.
 
@@ -10958,7 +10922,7 @@ of the functions of a British representative in China. There was
 another side. We know, in fact, though Dr Rennie does not record it,
 that Mr Bruce began to see the necessity of making a stand against the
 reactionary pressure of the Chinese; that he was resolved on bending
-the Ministers of the Yamen to his will--being satisfied he could do
+the Ministers of the Yamên to his will--being satisfied he could do
 it--instead of yielding to theirs in the vain hope of gaining their
 confidence.
 
@@ -11059,9 +11023,9 @@ squadron of light-draught steamers, on February 11, 1861. He carried
 an exploring expedition composed of Colonel Sarel, Captain Blakiston,
 Mr Shereshewsky, and Dr A. Barton, whose proceedings are reported in
 Blakiston's 'Five Months on the Upper Yangtze'; several American
-missionaries; two Frenchmen, afterwards distinguished, MM. Eugene
+missionaries; two Frenchmen, afterwards distinguished, MM. Eugène
 Simon and A. Dupuis, the latter proving the means of eventually giving
-Tongking to France; a French military attache; Lieut.-Colonel
+Tongking to France; a French military attaché; Lieut.-Colonel
 Wolseley, D.A.Q.-M.G.; and a delegation from the Shanghai Chamber of
 Commerce, with several private persons. Whether the pilots presumed
 upon light draught and steam power, or whether the course of the river
@@ -11162,7 +11126,7 @@ Mr Parkes, eminently a man of fact, thus describes what he was witness
 to:--
 
      Darkness fell upon crowds of the people lying with their
-     weeping families, and the _debris_ of their property, under
+     weeping families, and the _débris_ of their property, under
      the walls of Wuchang, anxious only to escape from defences
      that should have proved their protection.... The noise and
      cries attending their embarkation continued throughout the
@@ -11239,11 +11203,11 @@ Government point by point to his views.
 Meantime the Taiping rebels advanced to Ningpo, the defence of which
 Mr Bruce had refused to sanction, and they captured the city on
 December 9, 1861, after engaging not to do so. The leaders there were
-interviewed by the French Admiral Protet and the English Captain
+interviewed by the French Admiral Protêt and the English Captain
 Corbett with a view to gaining a comprehension of their plans, and "to
 prevent the atrocities of which they have hitherto been guilty, and to
 endeavour to effect an arrangement by which trade can be conducted
-from the town. The French Rear-Admiral Protet will act in concert with
+from the town. The French Rear-Admiral Protêt will act in concert with
 me," wrote Admiral Hope to Corbett, December 7.
 
 After the capture of the city the admiral instructed Captain Corbett
@@ -11311,9 +11275,9 @@ within the walls is to convince our assailants that we are unable to
 meet them in the field."
 
 The plan of campaign was settled in an agreement signed by Sir James
-Hope, Admiral Protet, and Brigadier Staveley, April 22, 1862, and was
+Hope, Admiral Protêt, and Brigadier Staveley, April 22, 1862, and was
 carried out to the letter during the early summer and the autumn
-following. At an early period of the operations Admiral Protet was
+following. At an early period of the operations Admiral Protêt was
 killed: his loss was deeply lamented, most of all by his British
 colleague, with whom relations of exceptional intimacy had sprung up.
 "The extent to which I enjoyed his confidence and regard will ever
@@ -11341,7 +11305,7 @@ After the capture he wrote: "In the city itself, once the home of half
 a million of people, no trace or vestige of an inhabitant could be
 seen.... The canals were filled with dead bodies and stagnant filth."
 The recapture of Ningpo was the beginning of an Anglo-Franco-Chinese
-campaign against the rebels in Chekiang which was carried on
+campaign against the rebels in Chêkiang which was carried on
 simultaneously with that round Shanghai.
 
 It is needless to follow in detail the operations which culminated two
@@ -11359,14 +11323,14 @@ The Taiping rebellion had devastated the central and southern
 provinces many years before the Chinese Government roused itself to a
 serious effort to resist it. The movement of repression originated
 with the Governor-General of the Hu provinces, whose chief lieutenant
-and successor was Tseng Kwo-fan, Governor-General of Kiangnan at the
-time of which we now speak. His brother, Tseng Kwo-chuan, the Governor
-of Chekiang province, was the military leader, and Li Hung-chang, the
+and successor was Tsêng Kwo-fan, Governor-General of Kiangnan at the
+time of which we now speak. His brother, Tsêng Kwo-chuan, the Governor
+of Chêkiang province, was the military leader, and Li Hung-chang, the
 most capable and energetic of them all, was governor of the province
 of Kiangsu. The imperialist forces had been gradually closing on
 Nanking, and it was thought probable that this hemming-in process
 forced the rebels to seek outlets and new feeding-grounds in the
-populous districts of Kiangsu and Chekiang. The rebels had enlisted a
+populous districts of Kiangsu and Chêkiang. The rebels had enlisted a
 number of foreigners in their ranks, and made great efforts to supply
 themselves with foreign arms and ammunition, for which purpose, among
 others, communication with the sea was most important for them. Li,
@@ -11472,7 +11436,7 @@ young engineer officer was. General Brown was for a few days after his
 arrival a guest in one of the spacious _hongs_ in the Shanghai
 settlement, which had a wide verandah, giving access to all the
 bedrooms. One morning very early the general, excited by a message
-that had just reached him, rushed round in _deshabille_ calling for
+that had just reached him, rushed round in _déshabillé_ calling for
 his host with a piece of coarse Chinese paper in his hand. "Do you
 know Major Gordon?" he said. "Why, yes, a very nice fellow, and
 reported to be a first-rate officer." "But," exclaimed the general,
@@ -11567,7 +11531,7 @@ sacrifice of Mr Lay was perhaps the safest way out of the imbroglio,
 for he was a pugnacious little man in whose hands despotic power might
 have been attended with inconvenience. Nevertheless, the blame of the
 failure belonged to all the parties concerned--to Prince Kung,
-Wensiang, Mr Hart, Mr Bruce, and the British Government. They each
+Wênsiang, Mr Hart, Mr Bruce, and the British Government. They each
 entered into the scheme with different ideas, more or less vague,
 except Mr Lay's own, which had perforce to be reduced to the definite
 when he came to draw up contracts with British naval officers, and to
@@ -11595,7 +11559,7 @@ undergone a change of mind--induced, no doubt, by cogent
 considerations--during Mr Lay's final sojourn in Peking. Having
 received a message from the Minister urging a stiff attitude with the
 Chinese Government and promising the full support of the Legation, Mr
-Lay proceeded to the Yamen and laid down the law strongly, as his
+Lay proceeded to the Yamên and laid down the law strongly, as his
 manner was, in the full assurance that he had the British Minister at
 his back. But after thus burning his boats he found himself abandoned,
 for reasons of State which he was unable to appreciate. Such was the
@@ -11612,7 +11576,7 @@ to have been wholly absent from the inception of the enterprise.
 The crux of the question, no doubt, was the position of Nanking. The
 lever Mr Lay employed to secure acceptance of his conditions was the
 prospect of the immediate capture of the Taiping capital, against
-which the provincial Government, represented by the Viceroy Tseng, his
+which the provincial Government, represented by the Viceroy Tsêng, his
 brother, and the governor of Kiangsu, Li, were expending their forces.
 The temptation was exceedingly strong to close with Lay and secure the
 services--probably much overrated for that particular object--of the
@@ -11681,7 +11645,7 @@ all. This order reached him after he had, on his own motion,
 definitely resigned the service, so that there was no further clashing
 of authorities. Though the force contributed materially to the
 suppression of the rebellion, the final act, the capture of Nanking,
-was left to the unaided resources of the Viceroy Tseng.
+was left to the unaided resources of the Viceroy Tsêng.
 
 Not the least of Gordon's successes was the peaceable dissolution of
 the force when it had done its work; for the establishment was, for
@@ -11696,7 +11660,7 @@ life--immortal.
 
 The renown of Gordon and the brilliancy of his exploits have thrown
 unduly into the shade the Anglo-Chinese and Franco-Chinese campaign in
-the neighbouring province of Chekiang, which had Ningpo for its sea
+the neighbouring province of Chêkiang, which had Ningpo for its sea
 base. In their degree these operations were no less essential to the
 ultimate overthrow of the rebellion than those in the province of
 Kiangsu, and, among many others, the names of Prosper Giquel, who
@@ -11795,10 +11759,10 @@ VII. DEATH OF THE EMPEROR.
 
      His flight from the capital -- Succession of his son --
      Regency of the two empresses -- Prince Kung's sanguinary
-     _coup d'etat_.
+     _coup d'état_.
 
 Next in importance to the suppression of the Taiping rebellion, the
-death of the Emperor Hsienfeng marked the period we are now
+death of the Emperor Hsienfêng marked the period we are now
 considering. That unfortunate monarch, who deserted his capital
 against the strongest remonstrances of his advisers, on the approach
 of the Allied forces, died at his hiding-place in August 1861, and his
@@ -11807,7 +11771,7 @@ new emperor was a child, and provision had to be made for a regency.
 How this regency fell into the hands of two empresses--one the mother
 of the young emperor, the other the true widow of the deceased--was
 not very well understood by the foreigners then in the capital. Prince
-Kung's _coup d'etat_, by which the three male members of the regency
+Kung's _coup d'état_, by which the three male members of the regency
 were elaborately arraigned and then assassinated, was not organised to
 get rid of any imaginary "anti-foreign faction," as was too easily
 assumed at the time, but simply and solely to place the empire at the
@@ -11852,7 +11816,7 @@ help, therefore, was to be expected from the Chinese side in creating
 a workable scheme of international intercourse. They desired nothing
 of that kind, their ambition soaring no higher than the creation of a
 buffer against which external impulsion might expend its force. That
-buffer was the Tsungli-Yamen. Foreign diplomacy, therefore, if it were
+buffer was the Tsungli-Yamên. Foreign diplomacy, therefore, if it were
 to subsist at all, must subsist on its own resources, the foundation
 of which was force. The force that brought foreigners to Peking must,
 either _in esse_ or _in posse_, for an indefinite time keep them there
@@ -11880,9 +11844,9 @@ with the familiar results of such treatment. The diplomats betrayed so
 much anxiety to lure the sovereign back to his palace, that the
 Chinese Ministers soon learned to exploit this feeling for their own
 ends. That such and such a concession "would have a good effect at
-Jeho" was inducement enough to the foreign representatives to waive
+Jêho" was inducement enough to the foreign representatives to waive
 one point after another in the transaction of public business. When
-the emperor died, after six months of this _regime_ of indulgence, the
+the emperor died, after six months of this _régime_ of indulgence, the
 position was changed materially for the worse,--for the diplomats had
 now a veritable infant on their hands, with a female regent "behind
 the curtain." No prospect thenceforth of even the initial formality of
@@ -12060,7 +12024,7 @@ _Prince Kung's Reply, 19th June 1863._
      As regards the cases still undetermined in the provinces,
      the Prince hopes that the British Minister will refer to
      the record and inform him, case by case, of the particulars
-     of each, and the Yamen will at once write to the Provincial
+     of each, and the Yamên will at once write to the Provincial
      Governments concerned to hurry them with the cases
      enumerated....
 
@@ -12193,7 +12157,7 @@ his return to China in 1863:--
      remonstrance and impotent menace; ... the labour of years
      lost through egregious mismanagement. The Foreign Board
      looked upon our European representatives as so many _rois
-     faineants_.... Prince Kung was no longer accessible.... He
+     fainéants_.... Prince Kung was no longer accessible.... He
      professed to be engaged with more important matters.
 
 FOOTNOTES:
@@ -12788,7 +12752,7 @@ among the Chinese which renders the authorities especially averse to
 risk collision with the populace or any popular feeling. The
 Chih-hsien is himself exposed to insult and violence if he attempt to
 enforce the collection of the taxes in a bad season, and but lately he
-was besieged here in his own _yamen_. Not ten days ago the Taotai paid
+was besieged here in his own _yamên_. Not ten days ago the Taotai paid
 1600 taels of silver to secure a piece of building-ground at the
 urgent demand of the French consul, rather than exert his authority to
 compel the owners to take the fair value of $400 offered, and upon the
@@ -12807,7 +12771,7 @@ consul on the spot, who each day has under his eyes these significant
 details, national and administrative. Where danger threatens to
 involve the persons or the property of British subjects, his sole
 direct resource is to fall back upon the treaty, and to cover with the
-aegis of national inviolability individual interests. By any other
+ægis of national inviolability individual interests. By any other
 course he falls inevitably into the hopeless condition of one waiting
 for such redress as the common course of justice in China usually
 affords, where everything assuming its form is venal and arbitrary.
@@ -12953,7 +12917,7 @@ and experience of the people we have to deal with have only served to
 confirm the views contained in those reports.
 
 I took the responsibility of sending Mr Vice-Consul Robertson with the
-Espiegle to Nanking in the spring of 1848 with the strong conviction
+Espiègle to Nanking in the spring of 1848 with the strong conviction
 that at that particular season, with the tribute of grain uncollected
 and a thousand of these grain-junks actually under an embargo at
 Shanghai, any demonstration of force in the neighbourhood of the Grand
@@ -12975,7 +12939,7 @@ Western Powers, his perilous position in regard to his own provinces
 cannot fail to impress upon him the prudence of at least temporising
 until a more convenient season. I am led to think, therefore, from all
 I can learn, that the two contrary forces will go far to neutralise
-each other, and that Hsienfeng, with all his hostile feeling, will be
+each other, and that Hsienfêng, with all his hostile feeling, will be
 at the _present moment_ as accessible to reason, from the peculiarly
 embarrassing position in which he is placed, if backed by coercive
 means, as was his predecessor at the conclusion of the war.
@@ -12991,9 +12955,9 @@ swelling the river until it overflows its banks with great accession
 of violence to the current. When the fleet sailed up in July 1842 many
 of the soundings taken were over paddy-fields, and altogether out of
 the bed of the river, as the soundings and observations of the
-Espiegle clearly demonstrated. The tribute also begins to be sent up
+Espiègle clearly demonstrated. The tribute also begins to be sent up
 to Peking from some parts as early as April. A fleet of grain-junks
-were at the mouth of the canal when the Espiegle made her appearance
+were at the mouth of the canal when the Espiègle made her appearance
 at the end of March in 1848.
 
 How far a blockade at the present time would have the desired
@@ -13287,7 +13251,7 @@ positive good may be effected, to repair the mischief, and much
 impending evil at all events averted.
 
 In reference to the land, also, it would seem very desirable that some
-understanding should be come to with the United States _charge
+understanding should be come to with the United States _chargé
 d'affaires_ by which any participation in the advantages of the
 British location, consistent with the security of all, should be
 freely conceded, while anything incompatible _with this condition_
@@ -13385,7 +13349,7 @@ annum. It also forms one of the duties of the governor-general of the
 province to act as chief superintendent of salt excise.
 
 Most of the supplies from Fukien have to be sent into the interior and
-the adjacent province of Kiangsi _via_ Foochow. The salt is made all
+the adjacent province of Kiangsi _viâ_ Foochow. The salt is made all
 along the shore to the southward....
 
 The salt is made at these places by people belonging to the various
@@ -13480,7 +13444,7 @@ contraband proceedings.
 
 There are a multiplicity of fees and charges which prove very onerous
 to the merchants. [Here follows a list of forty-seven separate fees,
-dues, and charges, amounting to 15,300 taels, or about L5000 sterling,
+dues, and charges, amounting to 15,300 taels, or about £5000 sterling,
 on 900,000 lb. weight, or about one-eighth of a penny per lb.]
 
 
@@ -13496,361 +13460,4 @@ PRINTED BY WILLIAM BLACKWOOD AND SONS.
 End of the Project Gutenberg EBook of The Englishman in China During the
 Victorian Era, Vol. I (of 2), by Alexander Michie
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ENGLISHMAN IN CHINA ***
-
-***** This file should be named 42732.txt or 42732.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/2/7/3/42732/
-
-Produced by Melissa McDaniel and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 42732 ***
